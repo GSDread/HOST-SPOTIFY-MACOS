@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOSTS="#[Spotify HOST LIST 2021] 
+HOSTS="#[Spotify HOST LIST 2022] 
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 www.spotify-desktop.com
 0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
